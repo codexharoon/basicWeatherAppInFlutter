@@ -1,16 +1,9 @@
-# basic_weather_app
+# Basic Weather App in Flutter
 
-A new Flutter project.
+## Main Features
+- Open Weather map API
+- lottie animation
+- geolocator 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### UI
+![Screenshot_1697568700](https://github.com/codexharoon/basicWeatherAppInFlutter/assets/104395720/57f4ffa9-88fc-4197-8f81-4f2e888cdf9b)
